@@ -1,0 +1,10 @@
+.expense-form{
+ width:750px;
+ margin:40px auto;
+ max-width:90%;
+ border:1px solid rgb(216, 214, 214);
+ border-radius: 15px;
+ padding:20px;
+ background-image: url('https://img.freepik.com/free-vector/soft-blue-watercolor-texture-design-background_1055-15955.jpg');
+ background-size: 100% 100%;
+}

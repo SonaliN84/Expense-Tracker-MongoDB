@@ -1,0 +1,9 @@
+.Auth-form{
+  width:400px;
+  max-width: 90%;
+  margin:20vh auto;
+  padding:20px;
+  border-radius:20px;
+  background-image: url('https://img.freepik.com/free-vector/soft-blue-watercolor-texture-design-background_1055-15955.jpg');
+  box-shadow:3px 5px 10px rgb(224, 221, 221);
+}

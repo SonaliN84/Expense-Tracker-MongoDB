@@ -1,0 +1,20 @@
+.loginSignupTitles{
+    text-decoration: none;
+    background-color: rgb(20, 20, 142);
+    color: white;
+    border:1px solid rgb(20, 20, 142);
+    border-radius:15px;
+    padding:5px 20px;
+}
+.loginSignupTitles:hover{
+    color:white;
+}
+#verify{
+    text-decoration: none;
+    background-color: rgb(20, 20, 142);
+    color: white;
+    border:1px solid rgb(20, 20, 142);
+    /* border-radius:15px;
+    padding:5px 20px;  */
+  
+}

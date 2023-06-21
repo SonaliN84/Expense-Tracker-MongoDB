@@ -1,0 +1,14 @@
+.expense-row{
+    border:1px solid rgb(20, 20, 142);
+    border-radius: 10px;
+    padding:10px;
+    margin:15px;
+    color:white;
+    background-color:rgb(20, 20, 142) ;
+}
+/* @media screen and (max-width:650px)
+{
+    .expense-row{
+        padding:1px;  
+    }
+} */

@@ -1,0 +1,10 @@
+.Cover{
+       width:800px;
+        margin:100px auto;
+       border:1px solid rgb(210, 207, 207);
+       border-radius: 10px;
+       box-shadow: 3px 5px 10px gainsboro;
+       padding:30px;
+       max-width: 90%;
+    
+}
